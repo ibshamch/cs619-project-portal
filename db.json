@@ -1,0 +1,17 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Age prediction by Facial Features recognition using Yolo v4",
+        "status": "Open",
+        "description": "A computer vision project using YOLOv4 for age prediction...",
+        "roadmap": [
+          "Data Collection (1 month)",
+          "Model Training (2 weeks)",
+          "API Development (1 week)",
+          "Testing & Deployment (1 week)"
+        ],
+        "difficulty" : "Easy"
+      }
+    ]
+  }
