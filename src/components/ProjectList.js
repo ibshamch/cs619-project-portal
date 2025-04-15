@@ -71,18 +71,10 @@ const ProjectList = () => {
       ],
       "difficulty": "Hard"
     }
-    // ... You can continue the pattern for the rest
   
 
 ]);
 
-//   useEffect(() => {
-//     const fetchProjects = async () => {
-//       const res = await axios.get('http://localhost:3001/projects');
-//       setProjects(res.data);
-//     };
-//     fetchProjects();
-//   }, []);
 
   return (
     <div className="project-list">
