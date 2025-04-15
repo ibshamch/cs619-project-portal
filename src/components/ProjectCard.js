@@ -7,12 +7,12 @@ const ProjectCard = ({ project }) => {
       <h3>{project.title}</h3>
     <div className='status-diff'>
 
-      <span className={`status ${project.status.toLowerCase()}`}>
+      <span className={`status ${project.status}`}>
         {project.status}
 
           </span>
 
-          <span className={`status ${project.status.toLowerCase()}`}>
+          <span className={`status ${project.status}`}>
         
       {project.difficulty}
           </span>
